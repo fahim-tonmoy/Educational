@@ -1,0 +1,98 @@
+[
+    {
+      "key": "1",
+      "courseName": "Coding for Begainers",
+      "enrolled": "200",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfNikreL2sfwO_bXUSwV-CDu8X129UqWRnEw&usqp=CAU",
+      "price": 2000,
+      "duration": 5
+    },
+    {
+      "key": "2",
+      "courseName": "Programming with C & C++",
+      "enrolled": "122",
+      "image": "https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2020/06/C_C_featuredimage.png?itok=o1mJTa7J",
+      "price": 5000,
+      "duration": 8
+    },
+    {
+      "key": "3",
+      "courseName": "Python for Begainers",
+      "enrolled": "86",
+      "image": "./courseDbImg/python.png",
+      "price": 6000,
+      "duration": 10
+    },
+    {
+      "key": "4",
+      "courseName": "Front-End Web Development",
+      "enrolled": "220",
+      "image": "./courseDbImg/html.png",
+      "price": 4000,
+      "duration": 7
+    },
+    {
+      "key": "5",
+      "courseName": "Back-End Web Development with Node Js, Express, MongoDb.",
+      "enrolled": "132",
+      "image": "./courseDbImg/NodeJS.jpg",
+      "price": 8000,
+      "duration": 15
+    },
+    {
+      "key": "6",
+      "courseName": "Web Development (Advance)",
+      "enrolled": "183",
+      "image": "./courseDbImg/NodeJS.jpg",
+      "price": 14000,
+      "duration": 20
+    },
+    {
+      "key": "7",
+      "courseName": "Front-End Web Development with React Js",
+      "enrolled": "280",
+      "image": "./courseDbImg/React.png",
+      "price": 12000,
+      "duration": 22
+    },
+    {
+      "key": "8",
+      "courseName": "Front-End Web Development with HTML5, CSS3 & BOOTSTRAP 5",
+      "enrolled": "540",
+      "image": "./courseDbImg/html.png",
+      "price": 2000,
+      "duration": 8
+    },
+    {
+      "key": "9",
+      "courseName": "Modern JavaScript Programming",
+      "enrolled": "134",
+      "image": "./courseDbImg/js.png",
+      "price": 1500,
+      "duration": 7
+    },
+    {
+      "key": "10",
+      "courseName": "Android App Development with Java",
+      "enrolled": "30",
+      "image": "./courseDbImg/java.png",
+      "price": 13000,
+      "duration": 18
+    },
+    {
+      "key": "11",
+      "courseName": "IOS Android App Development with Swift",
+      "enrolled": "80",
+      "image": "./courseDbImg/iOS-app-development.png",
+      "price": 6500,
+      "duration": 8.5
+    },
+    {
+      "key": "12",
+      "courseName": "Creating E-Commerce Website with WooCommerce",
+      "enrolled": "295",
+      "image": "./courseDbImg/WooCommerce.png",
+      "price": 11500,
+      "duration": 15.5
+    }
+  ]
